@@ -3,6 +3,7 @@
 
 Welcome to the Bayesian Statistics Repository! This project is dedicated to providing notes, examples, and code snippets to help understand and implement Bayesian statistical methods. Whether you're a student, a professional, or just curious about Bayesian statistics, you'll find valuable resources here.
 
+
 ## Introduction
 
 Bayesian statistics is a subset of statistics in which probability expresses a degree of belief in an event. This belief may change as new evidence is presented. Bayesian statistics uses Bayes' theorem to update the probability of a hypothesis as more evidence or information becomes available.
