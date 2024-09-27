@@ -1,5 +1,5 @@
-# Bayesian Statistics Repository
-En pausa
+# Bayesian Statistics Repository 
+En pausa - se retoma en enero
 
 Welcome to the Bayesian Statistics Repository! This project is dedicated to providing notes, examples, and code snippets to help understand and implement Bayesian statistical methods. Whether you're a student, a professional, or just curious about Bayesian statistics, you'll find valuable resources here.
 
